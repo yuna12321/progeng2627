@@ -1,0 +1,14 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/sui/Desktop/autumn26/week4/sum of powers'
+relocations:
+  - { offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003C80, symSize: 0xC4 }
+  - { offset: 0x2FAA, size: 0x8, addend: 0x0, symName: __ZNSt3__16__math3powB8ne180100IdiLi0EEENS_9__promoteIT_T0_vE4typeES3_S4_, symObjAddr: 0xC4, symBinAddr: 0x100003D44, symSize: 0x38 }
+  - { offset: 0x3007, size: 0x8, addend: 0x0, symName: __ZNSt3__16__math3powB8ne180100IiEEddd, symObjAddr: 0x180, symBinAddr: 0x100003E00, symSize: 0x2C }
+  - { offset: 0x3D0D, size: 0x8, addend: 0x0, symName: __ZNSt3__14endlB8ne180100IcNS_11char_traitsIcEEEERNS_13basic_ostreamIT_T0_EES7_, symObjAddr: 0x128, symBinAddr: 0x100003DA8, symSize: 0x58 }
+  - { offset: 0x3D4D, size: 0x8, addend: 0x0, symName: __ZNSt3__19use_facetB8ne180100INS_5ctypeIcEEEERKT_RKNS_6localeE, symObjAddr: 0x230, symBinAddr: 0x100003EB0, symSize: 0x2C }
+  - { offset: 0x509E, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003C80, symSize: 0xC4 }
+  - { offset: 0x51D5, size: 0x8, addend: 0x0, symName: __ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEElsB8ne180100EPFRS3_S4_E, symObjAddr: 0xFC, symBinAddr: 0x100003D7C, symSize: 0x2C }
+  - { offset: 0x5207, size: 0x8, addend: 0x0, symName: __ZNKSt3__19basic_iosIcNS_11char_traitsIcEEE5widenB8ne180100Ec, symObjAddr: 0x1AC, symBinAddr: 0x100003E2C, symSize: 0x84 }
+  - { offset: 0x527E, size: 0x8, addend: 0x0, symName: __ZNKSt3__15ctypeIcE5widenB8ne180100Ec, symObjAddr: 0x25C, symBinAddr: 0x100003EDC, symSize: 0x38 }
+...
